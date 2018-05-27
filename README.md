@@ -26,7 +26,7 @@ Work on your own stuff but have other people there around you, also working on t
 
 Share your portfolios and practice giving and getting constructive feedback. 
 
-Make a clan on [codewars](https://www.codewars.com/) and get your cohort to join, see if you can find another cohort to challenge!
+Make a clan on [codewars](https://www.codewars.com/) and get your cohort to join, see if you can find another cohort to challenge! Join Karolin [here](www.codewars.com/r/bEqEeQ)
 
 Team up and teach each other something! Get a group of people and have everyone spend 10 minutes explaining something cool they learned or going through a code challenge.
 
@@ -74,8 +74,10 @@ If you are feeling really rusty, go to CodeAcademy and do their codealongs (and 
 - Algorithm Tutorial on [CoderByte](https://coderbyte.com/)
 
 **DO:**
-- At least 1 code challenge from [hackerrank](https://www.hackerrank.com/) or [code wars](https://www.codewars.com) or [coderbyte](https://coderbyte.com/) a week
+- At least 1 code challenge from [hackerrank](https://www.hackerrank.com/) or [code wars](https://www.codewars.com) or [coderbyte](https://coderbyte.com/) a week Join Karolin [here](www.codewars.com/r/bEqEeQ)
 - Set a once a week 'retro day' where you go back to a morning exercise, lab or lesson and do it from scratch
+
+- Push yourself. Kata on code wars are rated 8 is super easy, going up to 1 which is quite hard. Challenge yourself to do 5 a week, like the NYT, start with an 8, then a 7, then a 6, then a 5, then a 4. Even if you don't finish 6 - 4, even trying is helping and you'll get reinforcement with the simpler ones!
 
 **Watch**
 
