@@ -72,6 +72,7 @@ If you are feeling really rusty, go to CodeAcademy and do their codealongs (and 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) and work your way through the code examples
 - Another JavaScript book that works with your learning style (and share it with your GA community!)
 - Algorithm Tutorial on [CoderByte](https://coderbyte.com/)
+- Get into intermediate/advanced JS topics with the book series [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 **DO:**
 - At least 1 code challenge from [hackerrank](https://www.hackerrank.com/) or [code wars](https://www.codewars.com) or [coderbyte](https://coderbyte.com/) a week Join Karolin [here](www.codewars.com/r/bEqEeQ)
