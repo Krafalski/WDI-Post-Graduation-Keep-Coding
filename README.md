@@ -139,6 +139,9 @@ Unit 1 - the game! Some great (simpler) games to try to build
 
 **READ:**
 - Cracking the Code
+- Learn about Big O Notation. [Great intro here](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- Learn about Design Patterns in programming. [Free book here](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- Binary Seach Tree Example [in JavaScript](https://khan4019.github.io/front-end-Interview-Questions/bst.html)
 
 **DO:**
 - An online course from [MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)
@@ -146,8 +149,7 @@ Unit 1 - the game! Some great (simpler) games to try to build
 - Youtube videos for specific algorithms/concepts (Google is awesome at finding great stuff)
 - _Classic_ code challenges like FizzBuzz, Reverse a String, in the language of your choice
 - Work on sorting algorithms, understanding the concepts, learning to write them
-- Learn what Big-O is
-- Learn about Binary Search Trees
+- Learn about Binary Search Trees. [Great intro series of vidoes here](https://www.youtube.com/watch?annotation_id=annotation_1064245675&feature=iv&index=25&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&src_vid=H5JubkIy_p8&v=qH6yxkw0u78)
 
 
 ## Be Fair to Yourself and Avoid Common Pitfalls
@@ -165,7 +167,12 @@ Unit 1 - the game! Some great (simpler) games to try to build
 
 
  
- 
+ #### Extra:
+##### Students Reported code challenges
+- Luhn
+- mimic the `cd` command 
+- nth value of Fibbonacci 
+- algorythm for searching for a name in a phone book ( typically looking for binary search tree)
  
  
  
