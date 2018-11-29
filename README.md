@@ -73,6 +73,7 @@ If you are feeling really rusty, go to CodeAcademy and do their codealongs (and 
 - Another JavaScript book that works with your learning style (and share it with your GA community!)
 - Algorithm Tutorial on [CoderByte](https://coderbyte.com/)
 - Get into intermediate/advanced JS topics with the book series [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [33 Concepts ever JS programmer should know](https://github.com/leonardomso/33-js-concepts#readme)
 
 **DO:**
 - At least 1 code challenge from [hackerrank](https://www.hackerrank.com/) or [code wars](https://www.codewars.com) or [coderbyte](https://coderbyte.com/) a week Join Karolin [here](www.codewars.com/r/bEqEeQ)
@@ -143,6 +144,8 @@ Unit 1 - the game! Some great (simpler) games to try to build
 - Learn about Big O Notation. [Great intro here](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - Learn about Design Patterns in programming. [Free book here](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - Binary Seach Tree Example [in JavaScript](https://khan4019.github.io/front-end-Interview-Questions/bst.html)
+- Alogrithms and Data Strutures in js [link](https://github.com/trekhleb/javascript-algorithms#readme)
+
 
 **DO:**
 - An online course from [MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)
