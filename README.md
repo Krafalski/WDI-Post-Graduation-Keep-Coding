@@ -171,7 +171,7 @@ Unit 1 - the game! Some great (simpler) games to try to build
 
 
  
- #### Extra:
+#### Extra:
 ##### Students Reported code challenges
 - Luhn
 - mimic the `cd` command 
@@ -179,4 +179,5 @@ Unit 1 - the game! Some great (simpler) games to try to build
 - algorythm for searching for a name in a phone book ( typically looking for binary search tree)
  
  
- 
+##### Good Reads
+- [Esoteric JS Questions](https://github.com/lydiahallie/javascript-questions)
