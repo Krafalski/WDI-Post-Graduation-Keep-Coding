@@ -81,6 +81,9 @@ If you are feeling really rusty, go to CodeAcademy and do their codealongs (and 
 
 - Push yourself. Kata on code wars are rated 8 is super easy, going up to 1 which is quite hard. Challenge yourself to do 5 a week, like the NYT, start with an 8, then a 7, then a 6, then a 5, then a 4. Even if you don't finish 6 - 4, even trying is helping and you'll get reinforcement with the simpler ones!
 
+- A lot of people enjoy [The Odin Project](https://www.theodinproject.com/)
+- And [Leet Code](https://leetcode.com/) is also a popular way to level up
+
 **Watch**
 
 Yes! Many parts of these videos can go over your head! That's ok, you'll still learn a lot and you can always watch them again. Once you get these videos going, youtube will recommend even more great videos!
